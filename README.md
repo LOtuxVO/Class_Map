@@ -1,7 +1,7 @@
 ## 🦊 Générateur de Plan de Classe
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B57EDC&center=true&vCenter=true&width=600&lines=Gérez+votre+plan+de+classe+simplement+!;Optimisation+automatique+des+places+⚡;Interface+intuitive+et+fluide+✨;Gagnez+du+temps+dès+maintenant+🎓" alt="TypingSVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B57EDC&center=true&vCenter=true&width=600&lines=Créer+votre+plan+de+classe+simplement+!;Optimisation+automatique+des+places+⚡;Interface+intuitive+et+fluide+✨;Gagnez+du+temps+!" alt="TypingSVG"/>
 </div>
 
 ## 🎓 Le Projet
