@@ -5,7 +5,7 @@
 </div>
 
 ## 🎓 Le Projet
-Le **Générateur de Plan de Classe** est l'outil idéal pour les enseignants et les formateurs. Fini le casse-tête de la répartition des élèves ! Cette application vous permet de créer, organiser et visualiser vos plans de classe en quelques clics de manière aléatoire.
+Le **Générateur de Plan de Classe** est l'outil idéal pour les enseignants et les formateurs. Fini le casse-tête de la répartition des élèves ! Cette application vous permet de créer des plans de classe en quelques clics de manière aléatoire.
 
 ### 🛠️ Fonctionnalités
 * **🔀 Génération aléatoire** : Mélangez aléatoirement les places instantanément pour dynamiser votre classe
