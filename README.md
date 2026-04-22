@@ -27,7 +27,7 @@ Voici comment prendre en main votre générateur en 4 étapes simples :
   <tr>
     <td width="50%" align="center">
       <b>💻 Notice d'Utilisation Logiciel</b><br>
-      <img src="./Notice_d'utilisation.pdf" alt="Notice d'Utilisation" width="100%"/>
+      <img src="./images/notice_utilisation.png" alt="Notice d'Utilisation" width="100%"/>
     </td>
   </tr>
 </table>
