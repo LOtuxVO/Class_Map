@@ -1,11 +1,11 @@
 ## 🦊 Générateur de Plan de Classe
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B57EDC&center=true&vCenter=true&width=600&lines=Gérez+votre+plan+de+classe+simplement+!;Optimisation+automatique+des+places+⚡;Interface+intuitive+et+fluide+✨;Gagnez+du+temps+dès+maintenant+🎓" alt="TypingSVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B57EDC&center=true&vCenter=true&width=600&lines=Créer+votre+plan+de+classe+simplement+!;Optimisation+automatique+des+places+⚡;Interface+intuitive+et+fluide+✨;Gagnez+du+temps+!" alt="TypingSVG"/>
 </div>
 
 ## 🎓 Le Projet
-Le **Générateur de Plan de Classe** est l'outil idéal pour les enseignants et les formateurs. Fini le casse-tête de la répartition des élèves ! Cette application vous permet de créer, organiser et visualiser vos plans de classe en quelques clics de manière aléatoire.
+Le **Générateur de Plan de Classe** est l'outil idéal pour les enseignants et les formateurs. Fini le casse-tête de la répartition des élèves ! Cette application vous permet de créer des plans de classe en quelques clics de manière aléatoire.
 
 ### 🛠️ Fonctionnalités
 * **🔀 Génération aléatoire** : Mélangez aléatoirement les places instantanément pour dynamiser votre classe
@@ -27,7 +27,7 @@ Voici comment prendre en main votre générateur en 4 étapes simples :
   <tr>
     <td width="50%" align="center">
       <b>💻 Notice d'Utilisation Logiciel</b><br>
-      <img src="./Notice_d'utilisation.pdf" alt="Notice d'Utilisation" width="100%"/>
+      <img src="./images/notice_utilisation.png" alt="Notice d'Utilisation" width="100%"/>
     </td>
   </tr>
 </table>
