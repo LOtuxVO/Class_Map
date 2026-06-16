@@ -193,7 +193,7 @@ int WINAPI WinMain(HINSTANCE hInst, HINSTANCE hPrevInst, LPSTR args, int ncmdsho
     wc.lpfnWndProc = WindowProcedure;
     if (!RegisterClass(&wc)) return -1;
 
-    CreateWindow("InterfaceApp", "Generateur Plan de Classe", WS_OVERLAPPEDWINDOW | WS_VISIBLE, 100, 100, 450, 240, NULL, NULL, hInst, NULL); // Ajuster la taille de la fenêtre
+    CreateWindow("InterfaceApp", "Class Map", WS_OVERLAPPEDWINDOW | WS_VISIBLE, 100, 100, 450, 240, NULL, NULL, hInst, NULL); // Ajuster la taille de la fenêtre
 
     MSG msg = {0};
     while (GetMessage(&msg, NULL, 0, 0)) {
