@@ -1,11 +1,11 @@
-## 🦊 Générateur de Plan de Classe
+## 🦊 Class Map
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B57EDC&center=true&vCenter=true&width=600&lines=Créer+votre+plan+de+classe+simplement+!;Optimisation+automatique+des+places+⚡;Interface+intuitive+et+fluide+✨;Gagnez+du+temps+!" alt="TypingSVG"/>
 </div>
 
 ## 🎓 Le Projet
-Le **Générateur de Plan de Classe** est l'outil idéal pour les enseignants et les formateurs. Fini le casse-tête de la répartition des élèves ! Cette application vous permet de créer des plans de classe en quelques clics de manière aléatoire.
+**Class Map** (Générateur de plan de classe) est l'outil idéal pour les enseignants et les formateurs. Fini le casse-tête de la répartition des élèves ! Cette application vous permet de créer des plans de classe en quelques clics de manière aléatoire.
 
 ### 🛠️ Fonctionnalités
 * **🔀 Génération aléatoire** : Mélangez aléatoirement les places instantanément pour dynamiser votre classe
